@@ -1,2 +1,3 @@
-<h1>hello world
-[First article](new-post.md)
+# Articles
+  
+[ReadtheDocs - Setup RestructuralText preview in VSCode](new-post.md)
