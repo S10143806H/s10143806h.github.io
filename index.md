@@ -4,3 +4,4 @@
 - [用 Wio Terminal 打造體感 Chrome 恐龍游戲](wio-terminal-chrome.md)
 - [RTLduino -- 野生Ameba開發板](RTLduino--野生Ameba開發板.md)
 - [🌿💧 智能植物監測專案](智能植物監測專案.md)
+- [AMB82-MINI Web Server (pending...)]()
